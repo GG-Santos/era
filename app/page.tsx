@@ -9,6 +9,7 @@ export default function Home() {
           <li className="mb-2">
             The Database is currently under maintenance, please call the number on the back of the License Card for Validation.</li>
         </ol>
+        </main>
     </div>
   );
 }
